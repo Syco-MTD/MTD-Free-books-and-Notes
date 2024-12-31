@@ -1,0 +1,41 @@
+h1 {
+    text-align: right;
+    color: red;
+    font-style: normal;
+    padding-right: 450px;  
+}
+h2 {
+    color: red;
+    padding-left: 450px;
+    font-size: xx-large;
+    font-style: normal;
+} 
+p {
+    text-align: center;
+    font-size: large;
+    color: black;    
+}
+nav {
+    background-color: rgba(0, 0, 0, 0.089);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+nav a {
+    text-decoration: none;
+    font-size: 23px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+} 
+main {   
+h1 {
+    color: blueviolet;
+    }
+    text-align: center;
+    font-size: 15px;
+    color: black;
+}
+body {
+    background-color: bisque;
+}
